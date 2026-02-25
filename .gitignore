@@ -1,0 +1,21 @@
+﻿# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp files
+*.tmp
+*.bak
+*~
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sensitive data
+*.env
+secrets.txt
