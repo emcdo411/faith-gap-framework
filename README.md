@@ -10,7 +10,7 @@
 [![Citations](https://img.shields.io/badge/Peer--Reviewed%20Citations-21-2A3580?style=for-the-badge)](./citations/full_citation_list.md)
 [![Disciplines](https://img.shields.io/badge/Disciplines-5-7B8FD4?style=for-the-badge)](./framework/modules/module_index.md)
 [![Truth Score](https://img.shields.io/badge/KenSight%20Truth%20Score-88%2F100-5A5A72?style=for-the-badge)](./framework/modules/module_index.md)
-[![License](https://img.shields.io/badge/License-Proprietary-2C2C3A?style=for-the-badge)](./LICENSE)
+[![License](https://img.shields.io/badge/License-DACR%20v1.0-2C2C3A?style=for-the-badge)](./LICENSE.md)
 
 ---
 
@@ -42,7 +42,7 @@
 - [Methodology](#-methodology--ai-as-stress-test)
 - [Framework Stack](#-framework-stack)
 - [Citation](#-citation)
-- [License](#-license)
+- [License — DACR v1.0](#-license--dacr-v10)
 
 ---
 
@@ -294,17 +294,46 @@ McDonald, E.M. (2026). *The Faith Gap Framework: Why partner skepticism during l
 
 ---
 
-## 📄 License
+## 📄 License — DACR v1.0
 
-© 2026 Erwin Maurice McDonald. All rights reserved.
+**License Type:** Data, Attribution, Citation & Rights (DACR v1.0)
+**© 2026 Erwin Maurice McDonald | Practical Data Evangelist | Fort Worth, TX**
 
-See [`LICENSE`](LICENSE) for full terms.
+This Framework is governed by the **DACR v1.0 License** — a purpose-built license
+for behavioral science frameworks, research models, and data-driven intellectual property.
 
-**Permitted:** Academic citation with attribution · Personal and educational reference
-**Prohibited:** Commercial use without written permission · Derivative frameworks without written permission · Removal of attribution
+See [`LICENSE.md`](./LICENSE.md) for full terms.
 
-> This framework is protected intellectual property.
-> The Git commit timestamp constitutes a public, immutable, cryptographically sealed record of authorship.
+### Quick Reference
+
+| Use Type | Permitted? | Conditions |
+|---|---|---|
+| Academic citation | ✅ Yes | Full attribution required (Section 3) |
+| Educational reference | ✅ Yes | Attribution required; not for resale |
+| Journalistic reference | ✅ Yes | Attribution required; no misrepresentation |
+| Personal/private use | ✅ Yes | No attribution required |
+| Commercial use | ❌ No | Written license required → [inquire](../../issues) |
+| Derivative frameworks | ❌ No | Written permission required → [inquire](../../issues) |
+| AI training data | ❌ No | Prohibited without written permission |
+| Removal of attribution | ❌ No | Prohibited in all cases |
+
+### Required Attribution Format
+
+```
+McDonald, E.M. (2026). The Faith Gap Framework: Why Partner Skepticism During Long
+Job Searches Is Not a Gender Deficiency — And What the Peer-Reviewed Evidence
+Actually Says. Practical Data Evangelist. Fort Worth, TX.
+https://github.com/YOUR_GITHUB_USERNAME/faith-gap-framework
+```
+
+### Authorship Record
+
+> The Git commit timestamp on this repository constitutes a **cryptographically sealed,
+> publicly verifiable, immutable record** of the Framework's authorship and creation date.
+> Any claim of prior authorship must produce a timestamped public record predating
+> the earliest commit in this repository.
+
+*By accessing or using any portion of this Framework, you accept the DACR v1.0 License in full.*
 
 ---
 
