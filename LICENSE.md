@@ -102,7 +102,7 @@ All public or distributed use requires the following citation:
 McDonald, E.M. (2026). The Faith Gap Framework: Why Partner Skepticism During Long
 Job Searches Is Not a Gender Deficiency — And What the Peer-Reviewed Evidence
 Actually Says. Practical Data Evangelist. Fort Worth, TX.
-https://github.com/YOUR_GITHUB_USERNAME/faith-gap-framework
+https://github.com/emcdo411/faith-gap-framework
 
 
 ### 3.2 Attribution Integrity
